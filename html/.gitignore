@@ -1,9 +1,10 @@
-.jpeg*
-.png*
-.jpg*
 .image
-
-.zip
+.jpg*
+.png*
+.jpeg*
+.zip*
+.images.zip
+.html/__MACOSX/
 
 # Compiled source #
 ###################
