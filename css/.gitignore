@@ -2,7 +2,8 @@
 .png*
 .jpg*
 .image
-
+css_folder
+img
 .zip
 
 # Compiled source #
